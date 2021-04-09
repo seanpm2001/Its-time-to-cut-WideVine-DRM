@@ -9,9 +9,11 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# Cut WideVine
+# It is time to Cut WideVine
 
 This is an article on why you should stop using Google WideVine (DRM) and uninstall it. DRM needs to be removed. This article will help you make your choice (if you haven't already) WideVine is highly anti-competitive, and extremely restrictive, and is destroying the freedom of videos on the Internet.
+
+Let's cut the WideVine and embrace an open Internet.
 
 ***
 
@@ -29,15 +31,21 @@ This is an article on why you should stop using Google WideVine (DRM) and uninst
 
 [06.0 - Alternative methods](#Alternate-methods)
 
-[07.0 - Other things to check out](#Other-things-to-check-out)
+[07.0 - What you can do to help](#What-you-can-do-to-help)
 
-[08.0 - Article info](#Article-info)
+[08.0 - Other things to check out](#Other-things-to-check-out)
 
-> [08.0.1 - Software status](#Software-status)
+[09.0 - Article info](#Article-info)
 
-[09.0 - File history](#File-history)
+> [09.0.1 - Software status](#Software-status)
 
-[10.0 - Footer](#Footer)
+> [09.0.2 - Sponsor info](#Sponsor-info)
+
+[10.0 - File history](#File-history)
+
+[11.0 - Footer](#Footer)
+
+> [11.9 - EOF](#EOF)
 
 ***
 
@@ -103,6 +111,68 @@ This point isn't valid just for video games, it can be applied to anything on a 
 
 ***
 
+## What you can do to help
+
+You can protest DRM. It may seem insignificant, but the more people who go against it, the more that is being done about it.
+
+If you are on Linux and using Firefox, make sure that DRM isn't installed (it normally isn't by default) and don't bother installing it. 
+
+If you are on Windows or MacOS, you may have a much harder time, as DRM is installed by default on these systems, and may auto-reinstall.
+
+Try to avoid the following sites:
+
+[Hulu](https://hulu.com)
+
+[Disney+](https://www.disneyplus.com/)
+
+[Paramount+](https://www.paramountplus.com/)
+
+Basically, almost any online video streaming service should be avoided, as the majority of them use DRM and you can't use the site without losing your freedom. It isn't worth it. Send the [MPAA](https://en.wikipedia.org/wiki/Motion_Picture_Association) a message and stop streaming these shows.
+
+You should also avoid any "free with ads" options on the following sites (as this method requires DRM)
+
+[YouTube](https://www.youtube.com)
+
+You can also protest DRM with a message on your projects `README.md` file. Here is what I use:
+
+```markdown
+
+***
+
+## Software status
+
+All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+
+![DRM-free_label.en.svg](DRM-free_label.en.svg)
+
+This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+
+I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
+
+Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+
+
+***
+
+## Sponsor info
+
+![SponsorButton.png](SponsorButton.png)
+
+You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+
+You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+
+Try it out! The sponsor button is right up next to the watch/unwatch button.
+
+***
+
+***
+
+```
+
+***
 ## Other things to check out
 
 [Defective by design - A campaign by the Free Software Foundation that is working on exposing and eliminating DRM usage](https://www.defectivebydesign.org/)
@@ -121,9 +191,9 @@ There are other alternates, just search for them.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Monday, February 8th 2021 at 4:41 pm)`
+File version: `2 (Thursday, April 8th 2021 at 5:18 pm)`
 
-Line count (including blank lines and compiler line): `189`
+Line count (including blank lines and compiler line): `299`
 
 ### Software status
 
@@ -132,6 +202,20 @@ All of my works are free from restrictions. DRM (**D**igital **R**estrictions **
 ![DRM-free_label.en.svg](DRM-free_label.en.svg)
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+
+***
+
+### Sponsor info
+
+![SponsorButton.png](SponsorButton.png)
+
+You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+
+You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+
+Try it out! The sponsor button is right up next to the watch/unwatch button.
+
+***
 
 ## File history
 
@@ -169,13 +253,39 @@ Version 1 (Sunday, February 8th 2021 at 4:41 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Thursday, April 8th 2021 at 5:18 pm)
+
+> Changes:
+
+> * Updated the title section
+
+> * Updated the index
+
+> * Added info on what you can do to help
+
+> * Added the sponsor info section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
