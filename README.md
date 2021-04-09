@@ -1,15 +1,17 @@
 
 ***
 
-Read in a different language:
+##### Top
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+# Read this article in a different language
+
+[ar عربى](/.github/README_AR.md) [zh-t 中國傳統的）](/.github/README_ZH-T.md)[**en-us**](README.md) [fr français](/.github/README_FR.md) [de Deutsch](/.github/README_DE.md) [ja 日本語](/.github/README_JA.md) [ko-south 韓國語](/.github/README_KO_SOUTH.md) [pl polski](/.github/README_PL.md) [ru русский](/.github/README_RU.md) [es en español](/.github/README_ES.md)
 
 Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/issues/) look for the correct language translation thread. Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 ***
 
-# It is time to Cut WideVine
+# It is time to cut Widevine
 
 This is an article on why you should stop using Google WideVine (DRM) and uninstall it. DRM needs to be removed. This article will help you make your choice (if you haven't already) WideVine is highly anti-competitive, and extremely restrictive, and is destroying the freedom of videos on the Internet.
 
@@ -18,6 +20,14 @@ Let's cut the WideVine and embrace an open Internet.
 ***
 
 # Index
+
+[00.0 - Top](#Top)
+
+> [00.1 - Read this article in a different language]
+
+> [00.2 - Title](#It-is-time-to-cut-Widevine)
+
+> [00.3 - Index](#Index)
 
 [01.0 - Overview](#Overview)
 
@@ -147,26 +157,11 @@ All of my works are free some restrictions. DRM (**D**igital **R**estrictions **
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
 
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
 This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
 
 Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
 
 ***
 
@@ -191,9 +186,9 @@ There are other alternates, just search for them.
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Thursday, April 8th 2021 at 5:18 pm)`
+File version: `3 (Thursday, April 8th 2021 at 5:28 pm)`
 
-Line count (including blank lines and compiler line): `299`
+Line count (including blank lines and compiler line): `320`
 
 ### Software status
 
@@ -207,7 +202,7 @@ This sticker is supported by the Free Software Foundation. I never intend to inc
 
 ### Sponsor info
 
-![SponsorButton.png](SponsorButton.png)
+![SponsorButton.png](SponsorButton.png) <-- This is not the official sponsor button, it is a demo image. Do not click it if you want to sponsor this project.
 
 You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
@@ -271,11 +266,21 @@ Version 2 (Thursday, April 8th 2021 at 5:18 pm)
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+Version 3 (Thursday, April 8th 2021 at 5:27 pm)
 
 > Changes:
 
-> * Coming soon
+> * Fixed translation links
+
+> * Updated the index
+
+> * Fixed a duplicate, off topic entry in the `what you can do to help` section
+
+> * Updated the sponsor info section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 3
 
@@ -287,12 +292,28 @@ Version 4 (Coming soon)
 
 > * No other changes in version 4
 
+Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+Version 6 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
+
 ***
 
 ## Footer
 
 You have reached the end of this file!
 
-### EOF
+##### EOF
 
 ***
