@@ -3,11 +3,24 @@
 
 ##### Top
 
+***
+
+# It is time to cut Widevine (Google DRM)
+
+![/WideVine_Logo.jpeg/ failed to load. The image may be corrupt or may have been moved.](/WideVine_Logo.jpeg)
+
+This is an article on why you should stop using Google WideVine (DRM) and uninstall it. DRM needs to be removed. This article will help you make your choice (if you haven't already) WideVine is highly anti-competitive, and extremely restrictive, and is destroying the freedom of videos on the Internet.
+
+Let's cut the WideVine and embrace an open Internet.
+
+( [Start to Degoogle your life with my comprehensive guide on GitHub](https://github.com/seanpm2001/Degoogle-your-life) | [Join a Degoogle community via a simple DuckDuckGo search](https://duckduckgo.com/?t=ffab&q=degoogle&ia=web) )
+
 _Read this article in a different language:_
 
 **Current language is:** `English (US)` _(translations may need to be corrected to fix English replacing the correct language)_
 
-_🌐 List of languages_
+<details>
+  <summary><H3><i>🌐 List of languages</i></H3></summary>
 
 **Sorted by:** `A-Z`
 
@@ -23,23 +36,22 @@ Translations are done with Google Translate due to limited or no support for the
 
 Due to maintenance issues, many translations are out of date and are using an outdated version of this `README` article file. A translator is needed. Also, as of April 23rd 2021, it is going to take me a while to get all the new links working.
 
-***
-
-# It is time to cut Widevine
-
-This is an article on why you should stop using Google WideVine (DRM) and uninstall it. DRM needs to be removed. This article will help you make your choice (if you haven't already) WideVine is highly anti-competitive, and extremely restrictive, and is destroying the freedom of videos on the Internet.
-
-Let's cut the WideVine and embrace an open Internet.
+</details>
 
 ***
 
 # Index
 
+<details open>
+  <summary>[Click/tap here to expand/collapse the index]</summary>
+
+***
+
 [00.0 - Top](#Top)
 
 > [00.1 - Read this article in a different language]
 
-> [00.2 - Title](#It-is-time-to-cut-Widevine)
+> [00.2 - Title](#It-is-time-to-cut-Widevine-(Google-DRM))
 
 > [00.3 - Index](#Index)
 
@@ -71,17 +83,21 @@ Let's cut the WideVine and embrace an open Internet.
 
 > [11.9 - EOF](#EOF)
 
+</details>
+
 ***
 
 ## Overview
 
-For other information about why DRM is a problem, [click here](https://www.defectivebydesign.org/)
+For other information about why DRM is a problem, [click/tap here](https://www.defectivebydesign.org/)
 
 ***
 
 ## Anti-competitive
 
-WideVine is a DRM that has to be licensed to be used with a browser. Google is extremely slow on reviewing and accepting people, and often refuses people to use it in their products with no reasoning. [Source 1](https://blog.samuelmaddock.com/posts/google-widevine-blocked-my-browser/) [Source 2 (the email thread that went on for over 4 months and resulted in nothing but disappointment)](https://blog.samuelmaddock.com/widevine/gmail-thread.html) Google has made it much harder for browsers like Brave or Firefox to compete with its pushing of this piece of DRM.
+WideVine is a DRM that has to be licensed to be used with a browser. Google is extremely slow on reviewing and accepting people, and often refuses people to use it in their products with no reasoning. [Source 1](https://blog.samuelmaddock.com/posts/google-widevine-blocked-my-browser/) [Source 2 (the email thread that went on for over 4 months and resulted in nothing but disappointment)](https://blog.samuelmaddock.com/widevine/gmail-thread.html)
+
+Google has made it much harder for browsers like Brave or Firefox to compete with its pushing of this piece of DRM. Even just using the Electron framework itself will prevent WideVine from working (so you can't visit sites like Netflix, Hulu, etc.) [Source 3](https://github.com/brave/browser-laptop/issues/10449) [Source 4](https://github.com/electron/electron/issues/12427)
 
 ***
 
@@ -151,6 +167,8 @@ Try to avoid the following sites:
 
 [Paramount+](https://www.paramountplus.com/)
 
+[Netflix](https://www.netflix.com/)
+
 Basically, almost any online video streaming service should be avoided, as the majority of them use DRM and you can't use the site without losing your freedom. It isn't worth it. Send the [MPAA](https://en.wikipedia.org/wiki/Motion_Picture_Association) a message and stop streaming these shows.
 
 You should also avoid any "free with ads" options on the following sites (as this method requires DRM)
@@ -181,6 +199,8 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 ```
 
+Also, make sure to avoid the following site: [https://www.widevine.com/](https://www.widevine.com/)
+
 ***
 ## Other things to check out
 
@@ -200,9 +220,9 @@ There are other alternates, just search for them.
 
 File type: `Markdown (*.md)`
 
-File version: `4 (Friday, April 23rd 2021 at 3:35 pm)`
+File version: `5 (Monday, May 10th 2021 at 8:02 pm)`
 
-Line count (including blank lines and compiler line): `354`
+Line count (including blank lines and compiler line): `407`
 
 ### Software status
 
@@ -227,6 +247,9 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 ***
 
 ## File history
+
+<details>
+  <summary>[Click/tap here to expand/collapse the file history]</summary>
 
 Version 1 (Sunday, February 8th 2021 at 4:41 pm)
 
@@ -310,11 +333,23 @@ Version 4 (Friday, April 23rd 2021 at 3:35 pm)
 
 > * No other changes in version 4
 
-Version 5 (Coming soon)
+Version 5 (Monday, May 10th 2021 at 8:02 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added the WideVine logo
+
+> * Added dropdowns for several sections
+
+> * Added the link to avoid (https://www.widevine.com/)
+
+> * General article improvements
+
+> * Further hybrid input support (`click/tap` will replace `click` to show support for touchscreen users)
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 5
 
@@ -341,6 +376,24 @@ Version 8 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 8
+
+Version 9 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 9
+
+Version 10 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 10
+
+</details>
 
 ***
 
