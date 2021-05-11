@@ -5,6 +5,8 @@
 
 ***
 
+[#Degoogle-your-life](https://github.com/topics/degoogle-your-life) [#Degoogle](https://github.com/topics/degoogle) [#Degoogling](https://github.com/topics/degoogling) [#Degoogled](https://github.com/topics/degoogled)
+
 # It is time to cut Widevine (Google DRM)
 
 ![/WideVine_Logo.jpeg/ failed to load. The image may be corrupt or may have been moved.](/WideVine_Logo.jpeg)
@@ -13,7 +15,7 @@ This is an article on why you should stop using Google WideVine (DRM) and uninst
 
 Let's cut the WideVine and embrace an open Internet.
 
-( [Start to Degoogle your life with my comprehensive guide on GitHub](https://github.com/seanpm2001/Degoogle-your-life) | [Join a Degoogle community via a simple DuckDuckGo search](https://duckduckgo.com/?t=ffab&q=degoogle&ia=web) )
+( [Start to Degoogle your life with my comprehensive guide on GitHub](https://github.com/seanpm2001/Degoogle-your-life) | [Join a Degoogle community via a simple DuckDuckGo search](https://duckduckgo.com/?t=ffab&q=degoogle&ia=web) | [View my Degoogle your life GitHub organization](https://github.com/Degoogle-your-life) )
 
 _Read this article in a different language:_
 
@@ -90,6 +92,12 @@ Due to maintenance issues, many translations are out of date and are using an ou
 ## Overview
 
 For other information about why DRM is a problem, [click/tap here](https://www.defectivebydesign.org/)
+
+A general description of DRM: <!-- I worked on making this as easy as possible to read for non-tech savvy people !-->
+
+DRM is a restrictive form of software that prevents you from being able to freely access digital works. In short, when you use DRM, you don't own what you are using, the computer uses you. DRM can be malicious and highly anti-competitive, and it is bad for the environment and your devcies battery life and lifespan due to excessive use of the CPU (processor) and GPU (Graphics card) for example, it can make it so an eBook you download isn't owned by you, and the seller can modify the book or delete it without your permission, as you don't own that book. [Source 1](https://www.quora.com/Can-Amazon-delete-books-on-my-Kindle?share=1) [Source 2](https://www.syfy.com/syfywire/amazon_deletes_1984_from) [Source 3](https://www.npr.org/templates/story/story.php?storyId=106989048) [Source 4](https://mashable.com/2009/07/17/amazon-kindle-1984/) [Source 5](https://www.nytimes.com/2009/07/18/technology/companies/18amazon.html)
+
+WideVine is the most common video DRM, which restricts your access to videos on a website (such as Netflix, Disney+, Hulu, etc.) it is completely unnecessary, and can lock you out of a service (for example, many streaming services don't work on browsers other than Google Chrome (not even browsers based on Google Chromium, the source code for Chrome, can access these sites) due to Googles DRM monopoly) [see below for more info](#Anti-competitive).
 
 ***
 
@@ -220,17 +228,25 @@ There are other alternates, just search for them.
 
 File type: `Markdown (*.md)`
 
-File version: `5 (Monday, May 10th 2021 at 8:02 pm)`
+File version: `6 (Tuesday, May 11th 2021 at 1:56 pm)`
 
-Line count (including blank lines and compiler line): `407`
+Line count (including blank lines and compiler line): `449`
+
+---
 
 ### Software status
 
-All of my works are free from restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works. This project does not contain any DRM, but it is talking about DRM directly.
+All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
 
 ![DRM-free_label.en.svg](DRM-free_label.en.svg)
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+
+I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
+
+Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -250,6 +266,8 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 <details>
   <summary>[Click/tap here to expand/collapse the file history]</summary>
+
+***
 
 Version 1 (Sunday, February 8th 2021 at 4:41 pm)
 
@@ -353,11 +371,19 @@ Version 5 (Monday, May 10th 2021 at 8:02 pm)
 
 > * No other changes in version 5
 
-Version 6 (Coming soon)
+Version 6 (Tuesday, May 11th 2021 at 1:56 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added new topic links and reference links
+
+> * Added a general description of DRM that I first used last night that appears effective to non-tech-savvy people
+
+> * Brought the anti-DRM section up to date
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 6
 
@@ -392,6 +418,22 @@ Version 10 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 10
+
+Version 11 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 11
+
+Version 12 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 12
 
 </details>
 
