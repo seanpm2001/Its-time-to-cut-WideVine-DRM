@@ -9,7 +9,7 @@
 
 # It is time to cut Widevine (Google DRM)
 
-![/WideVine_Logo.jpeg/ failed to load. The image may be corrupt or may have been moved.](/WideVine_Logo.jpeg)
+![/WideVine_Logo.jpeg/ failed to load. The image may be corrupt or may have been moved.](/WideVineLogoTransparent.png)
 
 This is an article on why you should stop using Google WideVine (DRM) and uninstall it. DRM needs to be removed. This article will help you make your choice (if you haven't already) WideVine is highly anti-competitive, and extremely restrictive, and is destroying the freedom of videos on the Internet.
 
@@ -228,9 +228,9 @@ There are other alternates, just search for them.
 
 File type: `Markdown (*.md)`
 
-File version: `6 (Tuesday, May 11th 2021 at 1:56 pm)`
+File version: `7 (Wednesday, May 12th 2021 at 1:08 pm)`
 
-Line count (including blank lines and compiler line): `449`
+Line count (including blank lines and compiler line): `469`
 
 ---
 
@@ -387,11 +387,15 @@ Version 6 (Tuesday, May 11th 2021 at 1:56 pm)
 
 > * No other changes in version 6
 
-Version 7 (Coming soon)
+Version 7 (Wednesday, May 12th 2021 at 1:08 pm)
 
 > Changes:
 
-> * Coming soon
+> * Replaced the WideVine logo with a transparent version with the help of [PR #3 by @GaurPeeyush](https://github.com/GaurPeeyush)
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 7
 
@@ -434,6 +438,22 @@ Version 12 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 12
+
+Version 13 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 13
+
+Version 14 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 14
 
 </details>
 
