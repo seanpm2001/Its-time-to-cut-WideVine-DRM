@@ -1,0 +1,10 @@
+# .gitmodules
+# A list of submodules for Seanpm2001/Its-time-to-cut-WideVine-DRM/
+# Start of submodule list
+
+# The submodule for the main project, not functional yet
+[submodule "Seanpm2001/Degoogle-your-life"]
+	path = Its-time-to-cut-WideVine-DRM/DeGoogle-Your-Life/submodule.gitmodules
+	url = https://github.com/seanpm2001/Degoogle-your-life/
+
+# End of submodule list
