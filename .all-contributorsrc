@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "GaurPeeyush",
+      "name": "Peeyush Gaur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81735768?v=4",
+      "profile": "http://gaurpeeyush.github.io/PeeyushGaur/",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Its-time-to-cut-WideVine-DRM",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
