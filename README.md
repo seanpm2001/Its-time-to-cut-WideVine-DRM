@@ -18,7 +18,7 @@ This is an article on why you should stop using Google WideVine (DRM) and uninst
 
 Let's cut the WideVine and embrace an open Internet.
 
-( [Start to Degoogle your life with my comprehensive guide on GitHub](https://github.com/seanpm2001/Degoogle-your-life) | [Join a Degoogle community via a simple DuckDuckGo search](https://duckduckgo.com/?t=ffab&q=degoogle&ia=web) | [View my Degoogle your life GitHub organization](https://github.com/Degoogle-your-life) )
+( [Start to Degoogle your life with my comprehensive guide on GitHub](https://github.com/seanpm2001/Degoogle-your-life) | [Join a Degoogle community via a simple DuckDuckGo search](https://duckduckgo.com/?t=ffab&q=degoogle&ia=web) | [View my Degoogle your life GitHub organization](https://github.com/Degoogle-your-life) | [See the organization for this article project](https://github.com/Its-time-to-cut-WideVine-DRM/) )
 
 _Read this article in a different language:_
 
@@ -48,6 +48,8 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 ***
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
+
 [00.0 - Top](#Top)
 
 > [00.1 - Read this article in a different language]
@@ -57,6 +59,8 @@ Due to maintenance issues, many translations are out of date and are using an ou
 > [00.3 - Index](#Index)
 
 [01.0 - Overview](#Overview)
+
+> [01.1 - What is DRM](#What-is-DRM)
 
 [02.0 - Anti-competitive](#Anti-competitive)
 
@@ -124,11 +128,17 @@ Due to maintenance issues, many translations are out of date and are using an ou
 
 > [27.9 - EOF](#EOF)
 
+[28.0 - Contributors](#Contributors)
+
+</details>
+
 ***
 
 ## Overview
 
 For other information about why DRM is a problem, [click/tap here](https://www.defectivebydesign.org/)
+
+### What is DRM
 
 A general description of DRM: <!-- I worked on making this as easy as possible to read for non-tech savvy people !-->
 
@@ -440,11 +450,11 @@ There are other alternates, just search for them.
 
 ## Article info
 
-**File type:** `Markdown (*.md)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (Sunday, 2021 September 12th at 2:30 pm)`
+**File version:** `12 (Tuesday, 2021 December 28th at 2:46 pm)`
 
-**Line count (including blank lines and compiler line):** `834`
+**Line count (including blank lines and compiler line):** `0,978`
 
 ***
 
@@ -560,12 +570,13 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 ## File history
 
-<!-- <details>
-  <summary>[Click/tap here to expand/collapse the file history]</summary> !-->
+This section has been collapsed for readability purposes.
 
-***
+<details><summary>[Click/tap here to expand/collapse the file history]</summary>
 
 **Version 1 (Sunday, February 8th 2021 at 4:41 pm)**
+
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -601,6 +612,8 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 **Version 2 (Thursday, April 8th 2021 at 5:18 pm)**
 
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
+
 > Changes:
 
 > * Updated the title section
@@ -618,6 +631,8 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 > * No other changes in version 2
 
 **Version 3 (Thursday, April 8th 2021 at 5:27 pm)**
+
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -637,6 +652,8 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 **Version 4 (Friday, April 23rd 2021 at 3:35 pm)**
 
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
+
 > Changes:
 
 > * Updated the language switcher list
@@ -648,6 +665,8 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 > * No other changes in version 4
 
 **Version 5 (Monday, May 10th 2021 at 8:02 pm)**
+
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -669,6 +688,8 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 **Version 6 (Tuesday, May 11th 2021 at 1:56 pm)**
 
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
+
 > Changes:
 
 > * Added new topic links and reference links
@@ -685,6 +706,8 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 **Version 7 (Wednesday, May 12th 2021 at 1:08 pm)**
 
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
+
 > Changes:
 
 > * Replaced the WideVine logo with a transparent version with the help of [PR #3 by @GaurPeeyush](https://github.com/GaurPeeyush)
@@ -696,6 +719,8 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 > * No other changes in version 7
 
 **Version 8 (Sunday, 2021 September 12th at 2:30 pm)**
+
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -749,35 +774,63 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 > * No other changes in version 8
 
-**Version 9 (Coming soon)**
+**Version 9 (2021, Monday, December 27th at 10:35 pm)**
+
+**By:** [@all-contributors](https://github.com/apps/allcontributors/)
 
 > Changes:
 
-> * Coming soon
+> * Added the contributors table
+
+> * Added Peeyush Gaur/Gaur Peeyush (@gaurpeeyush](https://github.com/gaurpeeyush) to the contributors table
+
+> * Added the contributors badge and set it to level 1 (contributors = 1)
 
 > * No other changes in version 9
 
-**Version 10 (Coming soon)**
+**Version 10 (2021, Monday, December 27th at 10:36 pm)**
+
+**By:** [@all-contributors](https://github.com/apps/allcontributors/)
 
 > Changes:
 
-> * Coming soon
+> * Added [@Seanpm2001](https://github.com/seanpm2001/) to the contributors table
+
+> * Updated the contributors badge to level 2 (contributors = 2)
 
 > * No other changes in version 10
 
-**Version 11 (Coming soon)**
+**Version 11 (2021, Tuesday, December 28th at 2:11 pm)**
+
+**By:** [@all-contributors](https://github.com/apps/allcontributors/)
 
 > Changes:
 
-> * Coming soon
+> * Added [@all-contributors](https://github.com/apps/allcontributors/) to the contributors table
+
+> * Updated the contributors badge to level 3 (contributors = 3)
 
 > * No other changes in version 11
 
-**Version 12 (Coming soon)**
+**Version 12 (2021, Tuesday, December 28th at 2:46 pm)**
+
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Added the `what is DRM` section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the title section
+
+> * Updated the index
+
+> * Updated the technical notes section
+
+> * Moved the footer
 
 > * No other changes in version 12
 
@@ -813,25 +866,79 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 > * No other changes in version 16
 
-<!-- </details> !-->
+**Version 17 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 17
+
+**Version 18 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 18
+
+**Version 19 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 19
+
+**Version 20 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 20
+
+**Version 21 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 21
+
+**Version 22 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 22
+
+**Version 23 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 23
+
+**Version 24 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 24
+
+</details>
 
 ***
 
 ## Technical notes
 
-**All times are UTC-7 (PDT/Pacific Time)**
+**All times are UTC-7 (PDT/Pacific Time)** account for daylight savings time as well (it's a pain, I know)
 
 **The encoding is UTF-8 and is compatible with Unicode 5.0 and up**
-
-***
-
-## Footer
-
-You have reached the end of this file!
-
-( [Back to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
-
-##### EOF
 
 ***
 
@@ -856,3 +963,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+***
+
+## Footer
+
+You have reached the end of this file!
+
+( [Back to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
+
+##### EOF
+
+***
