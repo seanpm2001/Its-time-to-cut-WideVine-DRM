@@ -1,0 +1,18 @@
+# Start of script
+# Sample KDE desktop entry
+[Desktop Entry]
+Type=Application
+Exec=your-app %u
+MimeType=application/x-your-mime-type;
+Icon=some-icon
+X-DocPath=yourapp/index.html
+Terminal=false
+Name=Your App
+GenericName=Project language file 7
+Comment=I decided to make .desktop the 7th project language file for this project (DeGoogle-your-life/Its-time-to-cut-WideVine-DRM) as .desktop is one of the languages used for configuration of this project, and I am representing all project languages today (2021 Tuesday, December 28th)
+Categories=Qt;KDE;
+# File info
+# File type: KDE desktop file (*.desktop)
+# File version: 1 (Friday, December 17th at 6:42 pm)
+# Line count (including blank lines and compiler line): 19
+# End of script
