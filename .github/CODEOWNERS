@@ -53,6 +53,12 @@ WideVine_Logo.jpeg @seanpm2001
 *.mhtml @seanpm2001
 *.xhtm @seanpm2001
 *.xhtml @seanpm2001
+*.HTM @seanpm2001
+*.HTML @seanpm2001
+*.MHTM @seanpm2001
+*.MHTML @seanpm2001
+*.XHTM @seanpm2001
+*.XHTML @seanpm2001
 *.png @seanpm2001
 *.svg @seanpm2001
 *.PNG @seanpm2001
@@ -69,9 +75,20 @@ WideVine_Logo.jpeg @seanpm2001
 *.yaml @seanpm2001
 *.YML @seanpm2001
 *.YAML @seanpm2001
+*.ini @seanpm2001
+*.INI @seanpm2001
+*.desktop @seanpm2001
+*.DESKTOP @seanpm2001
+*.ogg @seanpm2001
+*.OGG @seanpm2001
+*.oga @seanpm2001
+*.OGA @seanpm2001
+*.TEX @seanpm2001
+*.make @seanpm2001
+*.MAKE @seanpm2001
 # No more individual file types for now
 # File info
 # File type: codeowners file (CODEOWNERS)
-# File version: 1 (2021, Tuesday, December 28th at 4:20 pm)
-# Line count (including blank lines and compiler line): 78
+# File version: 2 (2021, Tuesday, December 28th at 6:45 pm)
+# Line count (including blank lines and compiler line): 95
 # End of script
