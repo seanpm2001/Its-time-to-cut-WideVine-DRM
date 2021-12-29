@@ -1,0 +1,13 @@
+# Start of script
+# Project language file 5
+# For: DeGoogle-your-Life/Its time to cut WideVine DRM
+# I decided to make YAML the 5th project language file for this project (Its-time-to-cut-WIdeVine-DRM) as on 2021 Tuesday December 28th, I decided to make project languages out of all the languages used on this project. This project uses a lot of YAML for configuration and workflows, so it was included.
+# This is a rare instance in which I am using YAML as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language, and I extended this to other languages, this time with YAML. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+gitattributes: ".gitattributes"
+line1: *.yml linguist-detectable=true
+line2: *.yaml linguist-detectable=true
+## File info
+# File type: YAML document (*.yml *.yaml)
+# File version: 1 (Tuesday, 2021 December 28th at 6:33 pm)
+# Line count (including blank lines and compiler line): 14
+# End of script
