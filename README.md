@@ -230,7 +230,19 @@ As of Google Chrome V57 (2017 March) and later, Google forces DRM to be installe
 
 ## Violation of web standards
 
-DRM has always been controversial. Originally, when DRM was proposed for HTML5, it was approved because of Netflix, and it was so controversial, that the web standards group lost one of its founding members (EFF, Electronic Frontiers Foundation) as they accepted this damaging problem. Since then, DRM has become much more common, but still needs to be combated.
+DRM has always been controversial. Originally, when DRM was proposed for HTML5, it was approved because of Netflix wanting to add the feature, alongside Google and Microsoft, and it was so controversial, that the web standards group lost one of its most prominent and important members (EFF, Electronic Frontiers Foundation) as they accepted this damaging problem. Since then, DRM has become much more common, but still needs to be combated.
+
+Here is the EFF's statement on the matter:
+
+```
+The W3C effort to standardize Encrypted Media Extensions (EME, part of the Media Extensions Working Group) marks a new era in W3C standardization. For the first time, implementations of a W3C standard will be covered by "anti-circumvention" laws such as the Section 1201 of the US DMCA; European laws that implement Article 6 of the EUCD; and Canada's Bill C-11.
+
+These laws have been used by companies and rightsholders to threaten security and privacy researchers who came forward to report defects in their products. These laws may also create legal risks for entities who independently implement EME-compatible systems.
+```
+
+You can read the whole statement [here](https://www.eff.org/deeplinks/2016/06/w3c-eme-and-eff-frequently-asked-questions/)
+
+As feared by its opponents, the EME (Encrypted Media Extensions) specification broke open web standards, and requires paying royalties and submission to use.
 
 With Googles usage of DRM, and its history of locking other browsers out of its features, it is possible that Google may try to make Chrome the only browser that can use WideVine, and restrict other browsers from using it.
 
@@ -290,9 +302,9 @@ This point isn't valid just for video games, it can be applied to anything on a 
 
 You can protest DRM. It may seem insignificant, but the more people who go against it, the more that is being done about it.
 
-If you are on Linux and using Firefox, make sure that DRM isn't installed (it normally isn't by default) and don't bother installing it. 
+If you are on Linux and using Firefox, make sure that DRM isn't installed (it normally isn't by default on Ubuntu, although I am unsure about other distributions, except for ChromeOS/ChromiumOS and Android, which includes it) and don't bother installing it. 
 
-If you are on Windows or MacOS, you may have a much harder time, as DRM is installed by default on these systems, and may auto-reinstall.
+If you are on Windows or MacOS, you may have a much harder time, as DRM is installed by default (on Firefox and some other browsers) on these systems, and may auto-reinstall.
 
 Try to avoid the following sites:
 
@@ -306,9 +318,11 @@ Try to avoid the following sites:
 
 Basically, almost any online video streaming service should be avoided, as the majority of them use DRM and you can't use the site without losing your freedom. It isn't worth it. Send the [MPAA](https://en.wikipedia.org/wiki/Motion_Picture_Association) a message and stop streaming these shows.
 
-You should also avoid any "free with ads" options on the following sites (as this method requires DRM)
+You should also avoid any "free with ads" or "paid" options on the following sites (as this method requires using WideVine DRM)
 
 [YouTube](https://www.youtube.com)
+
+Note: YouTube has a form of "light DRM" (not WideVine) on all parts of the site. You can still view the page without installing DRM, but this light DRM prevents you from just right clicking and saving the video to your hard disk/other storage medium. It can easily be circumvented with [YouTube-DL](https://github.com/ytdl-org/youtube-dl/) along with tens of thousands of other video downloading tools. Google usually updates the light DRM monthly, so that it is harder for them to do this. It doesn't work, as video downloaders will push out an update before you can even experience issues downloading (providing you keep your video downloader up to date) 
 
 You can also protest DRM with a message on your projects `README.md` file. Here is what I use:
 
@@ -334,7 +348,17 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 ```
 
-Also, make sure to avoid the following site: [https://www.widevine.com/](https://www.widevine.com/)
+You can also use the following userboxes from Wikipedia:
+
+```wiki
+{{User:Gilgamesh~enwiki/Anti-copyright}}
+```
+
+```wiki
+{{User:Flarn2006/User anti-DRM}} 
+```
+
+Also, make sure to avoid the following site: [https://www.widevine.com/](https://www.widevine.com/) it shouldn't receive attention.
 
 ***
 
@@ -416,9 +440,25 @@ This is a list of the primary sources for this project.
 
 **Comment:** Tip: Don't, just don't.
 
+[https://www.eff.org/deeplinks/2016/06/w3c-eme-and-eff-frequently-asked-questions](https://www.eff.org/deeplinks/2016/06/w3c-eme-and-eff-frequently-asked-questions)
+
+**Comment:** Full announcement on the EFF's announcement against the W3Cs EFF specification and recommendation (2016)
+
 ### Tracker free sources
 
 This list is not available yet, as it requires a lot of work and extra moderation. For now, just use a good tracker blocker, like the Firefox web browser, or the Privacy Badger browser extension.
+
+[https://www.eff.org/deeplinks/2016/06/w3c-eme-and-eff-frequently-asked-questions](https://www.eff.org/deeplinks/2016/06/w3c-eme-and-eff-frequently-asked-questions)
+
+**Comment:** Full announcement on the EFF's announcement against the W3Cs EFF specification and recommendation (2016)
+
+[https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership/](https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership/)
+
+**Comment:** The EFF left the W3C for the inclusion of DRM.
+
+[https://privacybadger.org/](https://privacybadger.org/)
+
+**Comment:** The homepage for the privacy badger tracker blocking extension.
 
 ### Extra sources
 
@@ -428,7 +468,7 @@ These sources are used for people who don't trust the other ones, or for sources
 
 **Comment:** TL;DR: BMW (car manufacturer) supposedly uses DRM on their site to track who watches stuff, and prevents people from interacting with their content.
 
-https://www.reddit.com/r/netsec/comments/bj13yh/breaking_widevine_content_protection_drm_on/
+[https://www.reddit.com/r/netsec/comments/bj13yh/breaking_widevine_content_protection_drm_on/](https://www.reddit.com/r/netsec/comments/bj13yh/breaking_widevine_content_protection_drm_on/)
 
 **Comment:** Info: Network security info on how easy WideVine is to break. Reddit also isn't usable as a source most of the time.
 
@@ -440,7 +480,7 @@ https://www.reddit.com/r/netsec/comments/bj13yh/breaking_widevine_content_protec
 
 [The Google Graveyard (killedbygoogle.com) - a sorted list of the 224+ products Google has killed](https://killedbygoogle.com/)
 
-> [GitHub link](https://github.com/codyogden/killedbygoogle)
+> [GitHub link](https://github.com/codyogden/killedbygoogle/)
 
 [Alphabet worker union - The new workers union at Google with over 800 members](https://alphabetworkersunion.org/people/our-union/)
 
@@ -450,11 +490,23 @@ There are other alternates, just search for them.
 
 ## Article info
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
+
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (Tuesday, 2021 December 28th at 2:46 pm)`
+**File version:** `14 (Wednesday, 2022, January 19th at 6:31 pm)`
 
-**Line count (including blank lines and compiler line):** `0,978`
+**Line count (including blank lines and compiler line):** `1,095`
+
+**Current article language:** `English (US)` / `Markdown` / `HTML5`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** (Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
 
 ***
 
@@ -834,19 +886,35 @@ This section has been collapsed for readability purposes.
 
 > * No other changes in version 12
 
-**Version 13 (Coming soon)**
+**Version 13 (2022, Wednesday, January 19th at 4:26 pm)**
 
-> Changes:
+**By:** [@all-contributors](https://github.com/apps/allcontributors/)
 
-> * Coming soon
+> * Added [@gamer191](https://github.com/gamer191/) to the contributors table
+
+> * Updated the contributors badge to level 4 (contributors = 4)
 
 > * No other changes in version 13
 
-**Version 14 (Coming soon)**
+**Version 14 (2022, Wednesday, January 19th at 6:10 pm)**
+
+**By:** [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Added some important corrections pointed out by @gamer191
+
+> * Added a workflows section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated sources
+
+> * Updated the what you can do to help section
+
+> * Updated the violations of web standards section
 
 > * No other changes in version 14
 
@@ -930,6 +998,38 @@ This section has been collapsed for readability purposes.
 
 > * No other changes in version 24
 
+**Version 25 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 25
+
+**Version 26 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 26
+
+**Version 27 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 27
+
+**Version 28 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 28
+
 </details>
 
 ***
@@ -941,6 +1041,22 @@ This section has been collapsed for readability purposes.
 **The encoding is UTF-8 and is compatible with Unicode 5.0 and up**
 
 ***
+
+## Workflows
+
+GitHub workflows in use on this project.
+
+[![Jekyll site CI](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/actions/workflows/jekyll.yml/badge.svg)](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/actions/workflows/jekyll.yml)
+
+[![Lint Code Base](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/actions/workflows/super-linter.yml/badge.svg)](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/actions/workflows/super-linter.yml)
+
+[![Makefile CI](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/actions/workflows/makefile.yml/badge.svg)](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/actions/workflows/makefile.yml)
+
+[![YAML Lint](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/actions/workflows/yaml-lint.yml/badge.svg)](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/actions/workflows/yaml-lint.yml)
+
+***
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
 
